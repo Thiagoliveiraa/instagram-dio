@@ -1,4 +1,4 @@
-# Projeto do bootcamp dio :file_folder:
+# Projeto do bootcamp Avanade dio :file_folder:
 
 ## Primeiro entregável - interface instagram 
 
